@@ -12,10 +12,6 @@ avi = Teacher.new
 avi.first_name = "Avi"
 avi.last_name = "Flombaum"
 
-jim = User.new
-jim.first_name = Dametrik
-jim.last_name = Fick
-
 
 some_knowledge = avi.teach
 
